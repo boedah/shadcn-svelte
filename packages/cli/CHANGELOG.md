@@ -1,5 +1,11 @@
 # shadcn-svelte
 
+## 1.0.0-next.17
+
+### Patch Changes
+
+- 44b2445: feat: allow import maps to be used as path aliases
+
 ## 1.0.0-next.16
 
 ### Patch Changes
